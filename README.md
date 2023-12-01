@@ -1,6 +1,6 @@
 # docker-dynamic-dns
 
-    This is a fork of [blaize/docker-dynamic-dns](https://github.com/theonemule/docker-dynamic-dns/) to extend for FreeDNS.afraid.org (freedns) service   
+    This is a fork of [blaize/docker-dynamic-dns](https://github.com/theonemule/docker-dynamic-dns/) to extend for FreeDNS.afraid.org (freedns) and Now-DNS (nowdns) service     
 
 # Docker Dynamic DNS to use Google Domains, DuckDNS, DynDNS, FreeDNS.afraid NO-IP and Now-DNS
 
