@@ -52,6 +52,9 @@ while true; do
     freedns)
       SERVICEURL="freedns.afraid.org/nic/update?hostname=${HOSTNAME}&myip=${IP}"
       ;;
+    nowdns)
+      SERVICEURL="now-dns.com/update?hostname=${HOSTNAME}&myip=${IP}"
+      ;;
   esac
   
 
