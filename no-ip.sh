@@ -33,7 +33,6 @@ while true; do
     exit 35
   fi
 
-
   AUTHTOKEN=0
   case "$SERVICE" in
     noip)
